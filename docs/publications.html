@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>List of publications</title>
+
+<script src="site_libs/header-attrs-2.26/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Quentin Leclerc</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">A propos</a>
+</li>
+<li>
+  <a href="about.html">Parcours</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">List of publications</h1>
+
+</div>
+
+
+<ol style="list-style-type: decimal">
+<li><p><strong>Leclerc QJ</strong>, Lindsay JA, Knight GM. <a
+href="./papers/article1.pdf">Mathematical modelling to study the
+horizontal transfer of antimicrobial resistance genes in bacteria:
+current state of the field and recommendations.</a> Journal of the Royal
+Society Interface. 2019 Aug 30;16(157):20190260.</p></li>
+<li><p><strong>Leclerc QJ</strong>, Naylor NR, Aiken AM, Coll F, Knight
+GM. Feasibility of informing syndrome-level empiric antibiotic
+recommendations using publicly available antibiotic resistance datasets.
+Wellcome Open Research. 2019 Sep 24;4(140):140.</p></li>
+<li><p><strong>Leclerc QJ</strong>, Fuller NM, Knight LE, Funk S, Knight
+GM, CMMID COVID-19 Working Group. What settings have been linked to
+SARS-CoV-2 transmission clusters?. Wellcome Open Research. 2020 May
+1;5(83):83.</p></li>
+<li><p>Endo A, CMMID COVID-19 Working Group, <strong>Leclerc
+QJ</strong>, Knight GM, Medley GF, Atkins KE, Funk S, Kucharski AJ.
+Implication of backward contact tracing in the presence of overdispersed
+transmission in COVID-19 outbreak. Wellcome Open Research. 2021 Jan
+18;5(239):239.</p></li>
+<li><p>Standaert B, Sauboin C, <strong>Leclerc QJ</strong>, Connolly MP.
+Comparing the Analysis and Results of a Modified Social Accounting
+Matrix Framework with Conventional Methods of Reporting Indirect
+Non-Medical Costs. PharmacoEconomics. 2020 Nov 25:1-3.</p></li>
+<li><p>Knight GM, Glover RE, McQuaid CF, Olaru ID, Gallandat K,
+<strong>Leclerc QJ</strong>, Fuller NM, Willcocks SJ, Hasan R, van Kleef
+E, Chandler CI. Antimicrobial resistance and COVID-19: Intersections and
+implications. Elife. 2021 Feb 16;10:e64139.</p></li>
+<li><p><strong>Leclerc QJ</strong>, Nightingale ES, Abbott S, Jombart T.
+Analysis of temporal trends in potential COVID-19 cases reported through
+NHS Pathways England. Scientific reports. 2021 Mar
+29;11(1):1-8.</p></li>
+<li><p>Jombart T, Ghozzi S, Schumacher D, <strong>Leclerc QJ</strong>,
+Jit M, Flasche S, Greaves F, Ward T, Eggo RM, Nightingale E, Meakin S,
+Brady OJ, CMMID COVID-19 Working Group, Medley G, Hohle Michael, Edmunds
+J. Real-time monitoring of COVID-19 dynamics using automated trend
+fitting and anomaly detection. Philosophical Transactions of the Royal
+Society B. 2021 Jul 19;376(1829):20200266.</p></li>
+<li><p><em>Leclerc QJ</em>, Fuller NM, Keogh RH, Diaz-Ordaz K, Sekula R,
+Semple MG, Atkins KE, Procter SR, Knight GM, ISARIC4C Investigators,
+CMMID COVID-19 Working Group. Importance of patient bed pathways and
+length of stay differences in predicting COVID-19 bed occupancy in
+England. BMC health services research. 2021 Dec;21(1):1-5.</p></li>
+<li><p><strong>Leclerc QJ</strong>, Wildfire J, Gupta A, Lindsay JA,
+Knight GM. Growth-dependent predation and generalised transduction of
+antimicrobial resistance. mSystems. 2022 Mar 21;7(2):e00135-22.</p></li>
+<li><p><strong>Leclerc QJ</strong>, Lindsay JA, Knight GM. Modelling the
+synergistic effect of bacteriophage on bacteria: killers and drivers of
+resistance evolution. PLOS Computational Biology. 2022;18(11):
+e1010746</p></li>
+<li><p><strong>Leclerc QJ</strong>, Clements A, Dunn H, Hatcher J,
+Lindsay JA, Grandjean L, Knight GM. Quantifying patient-and
+hospital-level antimicrobial resistance dynamics in Staphylococcus
+aureus from routinely collected data. Journal of medical microbiology.
+2023 Jul 11;72(7):001724.</p></li>
+<li><p>Loedy N, Coletti P, Wambua J, Hermans L, Willem L, Jarvis CI,
+Wong KL, Edmunds WJ, Robert A, <strong>Leclerc QJ</strong>, Gimma A,
+Molenberghs G, Beutels P, Faes C, Hens N. Longitudinal social contact
+data analysis: insights from 2 years of data collection in Belgium
+during the COVID-19 pandemic. BMC Public Health. 2023.</p></li>
+<li><p>Duval A*, <strong>Leclerc QJ*</strong>, Guillemot D, Temime L,
+Opatowski L. An algorithm to build synthetic temporal contact networks
+based on close-proximity interactions data. medRxiv. 2023 Dec 8:2023-10.
+(*co-premiers auteurs)</p></li>
+<li><p><strong>Leclerc QJ*</strong>, Duval A*, Guillemot D, Opatowski L,
+Temime L. Using contact network dynamics to implement efficient
+interventions against pathogen spread in hospital settings. medRxiv.
+2023 Dec 11:2023-10. (*co-premiers auteurs)</p></li>
+<li><p>Rahbé E, Kovacevic A, Opatowski L, <strong>Leclerc QJ</strong>.
+Stronger together ? Potential of combining industry datasets and
+comparison with GLASS. medRxiv. 2024 Mar 15:2024-11.</p></li>
+</ol>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

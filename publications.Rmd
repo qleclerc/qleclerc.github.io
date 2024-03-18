@@ -1,0 +1,35 @@
+---
+title: "List of publications"
+---
+
+1.  **Leclerc QJ**, Lindsay JA, Knight GM. [Mathematical modelling to study the horizontal transfer of antimicrobial resistance genes in bacteria: current state of the field and recommendations.](./papers/article1.pdf) Journal of the Royal Society Interface. 2019 Aug 30;16(157):20190260.
+
+2.  **Leclerc QJ**, Naylor NR, Aiken AM, Coll F, Knight GM. Feasibility of informing syndrome-level empiric antibiotic recommendations using publicly available antibiotic resistance datasets. Wellcome Open Research. 2019 Sep 24;4(140):140.
+
+3.  **Leclerc QJ**, Fuller NM, Knight LE, Funk S, Knight GM, CMMID COVID-19 Working Group. What settings have been linked to SARS-CoV-2 transmission clusters?. Wellcome Open Research. 2020 May 1;5(83):83.
+
+4.  Endo A, CMMID COVID-19 Working Group, **Leclerc QJ**, Knight GM, Medley GF, Atkins KE, Funk S, Kucharski AJ. Implication of backward contact tracing in the presence of overdispersed transmission in COVID-19 outbreak. Wellcome Open Research. 2021 Jan 18;5(239):239.
+
+5.  Standaert B, Sauboin C, **Leclerc QJ**, Connolly MP. Comparing the Analysis and Results of a Modified Social Accounting Matrix Framework with Conventional Methods of Reporting Indirect Non-Medical Costs. PharmacoEconomics. 2020 Nov 25:1-3.
+
+6.  Knight GM, Glover RE, McQuaid CF, Olaru ID, Gallandat K, **Leclerc QJ**, Fuller NM, Willcocks SJ, Hasan R, van Kleef E, Chandler CI. Antimicrobial resistance and COVID-19: Intersections and implications. Elife. 2021 Feb 16;10:e64139.
+
+7.  **Leclerc QJ**, Nightingale ES, Abbott S, Jombart T. Analysis of temporal trends in potential COVID-19 cases reported through NHS Pathways England. Scientific reports. 2021 Mar 29;11(1):1-8.
+
+8.  Jombart T, Ghozzi S, Schumacher D, **Leclerc QJ**, Jit M, Flasche S, Greaves F, Ward T, Eggo RM, Nightingale E, Meakin S, Brady OJ, CMMID COVID-19 Working Group, Medley G, Hohle Michael, Edmunds J. Real-time monitoring of COVID-19 dynamics using automated trend fitting and anomaly detection. Philosophical Transactions of the Royal Society B. 2021 Jul 19;376(1829):20200266.
+
+9.  *Leclerc QJ*, Fuller NM, Keogh RH, Diaz-Ordaz K, Sekula R, Semple MG, Atkins KE, Procter SR, Knight GM, ISARIC4C Investigators, CMMID COVID-19 Working Group. Importance of patient bed pathways and length of stay differences in predicting COVID-19 bed occupancy in England. BMC health services research. 2021 Dec;21(1):1-5.
+
+10. **Leclerc QJ**, Wildfire J, Gupta A, Lindsay JA, Knight GM. Growth-dependent predation and generalised transduction of antimicrobial resistance. mSystems. 2022 Mar 21;7(2):e00135-22.
+
+11. **Leclerc QJ**, Lindsay JA, Knight GM. Modelling the synergistic effect of bacteriophage on bacteria: killers and drivers of resistance evolution. PLOS Computational Biology. 2022;18(11): e1010746
+
+12. **Leclerc QJ**, Clements A, Dunn H, Hatcher J, Lindsay JA, Grandjean L, Knight GM. Quantifying patient-and hospital-level antimicrobial resistance dynamics in Staphylococcus aureus from routinely collected data. Journal of medical microbiology. 2023 Jul 11;72(7):001724.
+
+13. Loedy N, Coletti P, Wambua J, Hermans L, Willem L, Jarvis CI, Wong KL, Edmunds WJ, Robert A, **Leclerc QJ**, Gimma A, Molenberghs G, Beutels P, Faes C, Hens N. Longitudinal social contact data analysis: insights from 2 years of data collection in Belgium during the COVID-19 pandemic. BMC Public Health. 2023.
+
+14. Duval A\*, **Leclerc QJ\***, Guillemot D, Temime L, Opatowski L. An algorithm to build synthetic temporal contact networks based on close-proximity interactions data. medRxiv. 2023 Dec 8:2023-10. (\*co-premiers auteurs)
+
+15. **Leclerc QJ\***, Duval A\*, Guillemot D, Opatowski L, Temime L. Using contact network dynamics to implement efficient interventions against pathogen spread in hospital settings. medRxiv. 2023 Dec 11:2023-10. (\*co-premiers auteurs)
+
+16. Rahbé E, Kovacevic A, Opatowski L, **Leclerc QJ**. Stronger together ? Potential of combining industry datasets and comparison with GLASS. medRxiv. 2024 Mar 15:2024-11.

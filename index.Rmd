@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "About"
 ---
 
 Hello! I'm a postdoctoral researcher working on mathematical modelling of infectious diseases.

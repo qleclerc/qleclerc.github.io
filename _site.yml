@@ -1,4 +1,4 @@
-name: "my-website"
+name: "qleclerc"
 output_dir: "docs"
 navbar:
   title: "Quentin Leclerc"
@@ -16,3 +16,6 @@ navbar:
 output:
   html_document:
     theme: "paper"
+    css: style.css
+    includes:
+      in_header: header.html

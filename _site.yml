@@ -3,12 +3,16 @@ output_dir: "docs"
 navbar:
   title: "Quentin Leclerc"
   left:
-    - text: "A propos"
+    - text: "About"
       href: index.html
-    - text: "Parcours"
+    - text: "CV"
       href: about.html
+    - text: "Projects"
+      href: projects.html
     - text: "Publications"
       href: publications.html
+    - text: "Other content"
+      href: other.html
 output:
   html_document:
     theme: "paper"

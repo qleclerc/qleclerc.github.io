@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "Curriculum vitae"
 ---
 
 More about this website.

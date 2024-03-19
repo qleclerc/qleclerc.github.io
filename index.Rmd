@@ -1,9 +1,11 @@
 ---
-title: "My Website"
+title: ""
 ---
 
-Hello, Website!
+Hello! I'm a postdoctoral researcher working on mathematical modelling of infectious diseases.
+I'm currently based at Institut Pasteur ([EMEA unit](https://research.pasteur.fr/fr/team/epidemiology-and-modelling-of-bacterial-escape-to-antimicrobials/)) and at the Conservatoire National des Arts et Métiers ([MESuRS lab](https://mesurs.cnam.fr/)).
+My focus is on antimicrobial resistance (AMR), particularly how this problem evolves, spreads, and can be prevented.
+For this, I study AMR across scales, from the invisible dynamics of gene transfer in bacterial populations, up the spread of pathogens across complex human contact networks.
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+For more information on what I do, please refer to my [Projects](./projects.html) page.
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.

@@ -15,7 +15,7 @@ navbar:
       href: other.html
 output:
   html_document:
-    theme: "paper"
-    css: "style.css"
+    theme: paper
+    css: css/style.css
     includes:
-      in_header: "header.html"
+      in_header: header.html

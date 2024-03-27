@@ -18,7 +18,7 @@ title: "List of publications"
 
 8.  Jombart T, Ghozzi S, Schumacher D, **Leclerc QJ**, Jit M, Flasche S, Greaves F, Ward T, Eggo RM, Nightingale E, Meakin S, Brady OJ, CMMID COVID-19 Working Group, Medley G, Hohle Michael, Edmunds J. [Real-time monitoring of COVID-19 dynamics using automated trend fitting and anomaly detection.](./papers/philb_autotrend.pdf) Philosophical Transactions of the Royal Society B. 2021 Jul 19;376(1829):20200266.
 
-9.  *Leclerc QJ*, Fuller NM, Keogh RH, Diaz-Ordaz K, Sekula R, Semple MG, Atkins KE, Procter SR, Knight GM, ISARIC4C Investigators, CMMID COVID-19 Working Group. [Importance of patient bed pathways and length of stay differences in predicting COVID-19 bed occupancy in England.](./papers/bmhsr_pathways.pdf) BMC health services research. 2021 Dec;21(1):1-5.
+9.  **Leclerc QJ**, Fuller NM, Keogh RH, Diaz-Ordaz K, Sekula R, Semple MG, Atkins KE, Procter SR, Knight GM, ISARIC4C Investigators, CMMID COVID-19 Working Group. [Importance of patient bed pathways and length of stay differences in predicting COVID-19 bed occupancy in England.](./papers/bmhsr_pathways.pdf) BMC health services research. 2021 Dec;21(1):1-5.
 
 10. **Leclerc QJ**, Wildfire J, Gupta A, Lindsay JA, Knight GM. [Growth-dependent predation and generalised transduction of antimicrobial resistance.](./papers/msys_transduction.pdf) mSystems. 2022 Mar 21;7(2):e00135-22.
 

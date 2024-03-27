@@ -2,12 +2,28 @@
 title: "Projects"
 ---
 
-## **PhD project**
+### **The dynamics of antimicrobial resistance**
 
-My PhD focused on understanding the process of horizontal transfer of antimicrobial resistance genes.
-We know that bacteria can exchange genes encoding antimicrobial resistance between them, however the exact dynamics of this are still unclear. At which rate does this occur? What influences the speed of the process? What is the impact of horizontal transfer on the overall public health consequences of antimicrobial resistance? These are some of the questions I tried to answer!
+My main research interest is on the dynamics of antimicrobial resistance (AMR), from its evolution to its spread, and across scales from the bacterial to human population level.
 
+During my PhD, I first focused on understanding the process of horizontal transfer of AMR genes.
+We know that bacteria can exchange genes encoding resistance between them, however the exact dynamics of this are still unclear. At which rate does this occur? What influences the speed of the process? What is the impact of horizontal transfer on the overall public health consequences of antimicrobial resistance? These are some of the questions I tried to answer!
 My supervisors were [Dr Gwen Knight](https://gwenknight.github.io/) (LSHTM) and [Prof Jodi Lindsay](https://www.sgul.ac.uk/profiles/jodi-lindsay) (SGUL), and I was funded by an [MRC LID studentship](http://mrc-lid.lshtm.ac.uk/).
+As part of this, I published several articles on our [knowledge gaps](./papers/jrsocint_hgt.pdf) on modelling horizontal gene transfer, on combining lab work and modelling to capture the [dynamics of transduction](./papers/msys_transduction.pdf), and on the complex interactions between [antibiotics and phage](./papers/pcomp_transduction.pdf).
+
+I then expanded my work to consider AMR at a human population level. Understanding bacterial transmission is key to implement efficient interventions, whether these are already available (improved hand hygiene, staff cohorting...) or still in clinical development (vaccines, monoclonal antibodies...).
+For this, I have mostly worked with [Prof Lulla Opatowski](https://research.pasteur.fr/en/member/lulla-opatowski/) (Institut Pasteur) and [Prof Laura Temime](https://mesurs.cnam.fr/laboratoire-mesurs/laura-temime--1398722.kjsp#/) (Cnam) during my postdoc funded in the context of the European [PrIMAVeRa project](https://www.primavera-amr.eu/).
+We notably developed a new algorithm to generate [dynamic temporal contact networks](./papers/medrxiv_algo.pdf) from empiric data, and used these networks to investigate the impact of different [contact-based interventions](./papers/medrxiv_ctc.pdf) on MRSA spread.
+
+<br>
+
+***
+
+<br>
+
+### **The impact of human interactions on the spread of COVID-19**
+
+During the COVID-19 pandemic, I was involved in the response work by the Centre of Mathematical Modelling of Infectious Diseases at LSHTM. Notably, I contributed to the daily maintenance of our data pipeline, which we then used to explore [temporal trends](./papers/scirep_nhs.pdf) in reported cases and develop new [real-time monitoring](./papers/philb_autotrend.pdf)  methods. Additionally, I conducted various analyses on COVID-19 transmission in [different settings](./papers/wor_setting.pdf) and on how [superspreading heterogeneity](./papers/wor_contact_tracing.pdf) can impact contact tracing efforts.
 
 
 <br>
@@ -16,31 +32,27 @@ My supervisors were [Dr Gwen Knight](https://gwenknight.github.io/) (LSHTM) and 
 
 <br>
 
-## **COVID-19**
+### **Industry AMR monitoring systems**
 
-I have been involved in the COVID-19 response work by the Centre of Mathematical Modelling of Infectious Diseases at LSHTM. Notably, I contributed to the daily maintenance of our data pipeline, and have conducted various analyses on COVID-19 transmission in different settings.
-
-
-<br>
-
-***
-
-<br>
-
-## **Wellcome Data Reuse Prize**
+Global surveillance of AMR is essential to tackle this public health threat. Several public surveillance initiatives are currently in development, such as the GLASS system by WHO. However, to complement such initiatives, an important source of data remains largely under-exploited: industry monitoring systems. We argue that these systems can be used alongside existing initiatives to fill in global AMR surveillance gaps, but this first requires a better understanding of how they collect and test isolates, and how resistance estimates derived from them compare with GLASS.
 
 Alongside several colleagues from LSHTM, I contributed to the winning entry for the [Data Re-use Prize](https://wellcome.ac.uk/news/new-data-re-use-prizes-help-unlock-value-research), a competition launched by the Wellcome Trust in 2018.
-We combined multiple open-access data sources to inform empiric prescribing of antibiotics around the world.
+We combined one industry monitoring system (ATLAS) with multiple open-access data sources to inform empiric prescribing of antibiotics around the world.
 
 This work has been published, and can be found [here](./papers/wor_empiric.pdf).
 
+I had the opportunity to again explore industry AMR monitoring systems in 2023 with colleagues from Institut Pasteur in the context of the Vivli Data Challenge, where we won one of the Impact Prizes.
+Here, we combined six different industry monitoring systems and compared them with GLASS, demonstrating how all these data sources can be gathered to fill in gaps in global surveillance.
+
+This work is currently available as a [preprint](./papers/medrxiv_compare.pdf).
+
 <br>
 
 ***
 
 <br>
 
-## **Previous projects**
+### **Previous projects**
 
 As part of my previous studies, I was involved in other research projects:
 
@@ -48,7 +60,6 @@ As part of my previous studies, I was involved in other research projects:
 In 2019 I completed a 3 months placement in the Value Evidence team at GlaxoSmithKline (Wavres, Belgium). During this period, I worked on cost of disease evaluation, cost-effectiveness analysis and fiscal modelling.
 
     Part of my work has been published, see [here](./papers/pheco_sam.pdf) for details.
-
 
 * #### The effect of structure and resolution on the dynamics of spatial epidemic models
 In my MSc project, I examined the link between the spatial scale at which we simulate epidemics and the results of such simulations. I focused on influenza in England, and developed a complete dynamic spatial model in R.

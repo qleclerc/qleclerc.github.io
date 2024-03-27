@@ -2,4 +2,30 @@
 title: "Curriculum vitae"
 ---
 
-More about this website.
+#### 2022-present: Postdoctoral Researcher in mathematical modelling of AMR (Institut Pasteur/Conservatoire National des Arts et Métiers)
+
+* Modelling of the spread of AMR across contact networks
+* Modelling the impact of novel interventions against AMR (vaccines and monoclonal antibodies)
+* Supervision of student projects on AMR modelling (undergraduate and postgraduate levels)
+* Teaching on the topics of mathematical modelling, statistics and antimicrobial resistance
+
+#### 2018-2022: PhD in Epidemiology of Infectious Diseases (London School of Hygiene and Tropical Medicine)
+
+*Title:* Interdisciplinary investigations of phage predation and generalised transduction of antimicrobial resistance in *Staphylococcus aureus*
+
+*Supervisors:* Gwen Knight and Jodi Lindsay
+
+
+#### 2017-2018: Master of Science in Epidemiology (Imperial College London)
+
+*Summer Project:* The effect of structure and resolution on the dynamics of spatial epidemic models
+
+*Grade:* Distinction
+
+
+#### 2014-2017: Bachelor of Science in Microbiology (Imperial College London)
+
+*Final Year Project:* Assessing the community impact of insecticide-treated nets for malaria control
+
+*Grade:* First Class
+

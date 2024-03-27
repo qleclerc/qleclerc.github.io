@@ -15,22 +15,18 @@ I then expanded my work to consider AMR at a human population level. Understandi
 For this, I have mostly worked with [Prof Lulla Opatowski](https://research.pasteur.fr/en/member/lulla-opatowski/) (Institut Pasteur) and [Prof Laura Temime](https://mesurs.cnam.fr/laboratoire-mesurs/laura-temime--1398722.kjsp#/) (Cnam) during my postdoc funded in the context of the European [PrIMAVeRa project](https://www.primavera-amr.eu/).
 We notably developed a new algorithm to generate [dynamic temporal contact networks](./papers/medrxiv_algo.pdf) from empiric data, and used these networks to investigate the impact of different [contact-based interventions](./papers/medrxiv_ctc.pdf) on MRSA spread.
 
-<br>
 
 ***
 
-<br>
 
 ### **The impact of human interactions on the spread of COVID-19**
 
 During the COVID-19 pandemic, I was involved in the response work by the Centre of Mathematical Modelling of Infectious Diseases at LSHTM. Notably, I contributed to the daily maintenance of our data pipeline, which we then used to explore [temporal trends](./papers/scirep_nhs.pdf) in reported cases and develop new [real-time monitoring](./papers/philb_autotrend.pdf)  methods. Additionally, I conducted various analyses on COVID-19 transmission in [different settings](./papers/wor_setting.pdf) and on how [superspreading heterogeneity](./papers/wor_contact_tracing.pdf) can impact contact tracing efforts.
 
 
-<br>
 
 ***
 
-<br>
 
 ### **Industry AMR monitoring systems**
 
@@ -46,11 +42,9 @@ Here, we combined six different industry monitoring systems and compared them wi
 
 This work is currently available as a [preprint](./papers/medrxiv_compare.pdf).
 
-<br>
 
 ***
 
-<br>
 
 ### **Previous projects**
 

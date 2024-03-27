@@ -2,9 +2,19 @@
 title: "Other content"
 ---
 
-In addition to my publications, I enjoy talking about my research in a more informal way through various blogs, media, and other outreach activities. If you'd like to discuss any aspect of my work, please don't hesitate to [contact me](quentin.leclerc@pasteur.fr)!
+In addition to my publications, I enjoy talking about my research in a more informal way through various blogs, media, and other outreach activities. If you'd like to discuss any aspect of my work, please don't hesitate to [contact me](mailto:quentin.leclerc@pasteur.fr)!
 
-## **Blogs**
+### Outreach
+- ASIBA Masterclass – [Revealing the invisible dynamics of infectious diseases](https://www.asiba.fr/challenges-posed-by-infectious-diseases-in-society-9-november-2023/). *Invited speaker to this webinar series for highschool students, on the topic of infectious diseases*
+- I'm a Scientist Get me out of here - ["Red Zone" (April 2021)](https://red21.imascientist.org.uk/). *Online discussion sessions with secondary and highschool students on the topic of scientific research*
+- FAIRly Open After Dark podcast – [“Going Viral!”](https://fairlyopenafterdark.podbean.com/e/going-viral/). *Guest in the inaugural episode of this podcast about data sharing*
+- « MRC LID Outbreak » workshop co-organiser. *responsible for the mathematical modelling stand during this one-day workshop on infectious diseases for highschool students*
+- Administrator for the Twitter account of the Centre for Mathematical Modelling of Infectious Diseases at LSHTM.
+
+
+***
+
+### Blogs
 
 - Microbiology Society - [“ 'A Sustainable Future' online focus groups”](https://microbiologysociety.org/blog/a-sustainable-future-online-focus-groups.html)
 - Wellcome Open Research Blog – [“Usability of publicly available datasets to help combat antimicrobial resistance”](https://blog.wellcomeopenresearch.org/2020/09/15/usability-of-publicly-available-datasets-to-help-combat-antimicrobial-resistance/)
@@ -12,11 +22,11 @@ In addition to my publications, I enjoy talking about my research in a more info
 - SGUL Library Blog – [“Challenging but rewarding – Wellcome Trust Data Re-use Prize winner, Quentin Leclerc, on reusing open data”](https://stglibrary.wordpress.com/2019/05/02/challenging-but-rewarding-wellcome-trust-data-re-use-prize-winner-quentin-leclerc-on-reusing-open-data/)
 - SGUL News – [“Student wins Wellcome Trust data prize for antimicrobial resistance program”](https://www.sgul.ac.uk/news/student-wins-wellcome-trust-data-prize-for-empirical-therapy-guidelines)
 
-<br>
 
 ***
 
-## **Media interviews**
+### Media interviews
+- Medical Xpress – ["Targeting nurse and patient 'supercontactors' in health care facilities can help minimize spread of infectious diseases"](https://medicalxpress.com/news/2023-04-nurse-patient-supercontactors-health-facilities.html)
 - Radio-Canada - ["Les angles morts du deconfinement"](https://ici.radio-canada.ca/ohdio/premiere/emissions/les-annees-lumiere/segments/reportage/356501/covid-deconfinement-vaccin-variant-pandemie)
 - El Pais – [“Cuando la información no se ajusta a la realidad de la pandemia”](https://elpais.com/espana/madrid/2021-03-01/cuando-la-informacion-no-se-ajusta-a-la-realidad.html)
 - BBC Science Focus – [“The K factor: Nevermind R, here’s the number we need to understand”](https://www.sciencefocus.com/news/the-k-factor-nevermind-r-heres-the-number-we-need-to-understand/)
@@ -24,13 +34,6 @@ In addition to my publications, I enjoy talking about my research in a more info
 - Huffington Post – [“What are super-spreader events – and how can you avoid them?”](https://www.huffingtonpost.co.uk/entry/whats-a-super-spreader-event-and-how-do-you-avoid-them_uk_5f3e5e67c5b66346158154e6)
 - Science News – [“COVID-19 case clusters offer lessons and warnings for reopening”](https://www.sciencenews.org/article/coronavirus-covid-19-case-clusters-lessons-warnings-reopening)
 
-<br>
-
-***
-
-## **Other**
-- I'm a Scientist Get me out of here - ["Red Zone" (April 2021)](https://red21.imascientist.org.uk/)
-- FAIRly Open After Dark podcast – [“Going Viral!”](https://fairlyopenafterdark.podbean.com/e/going-viral/)
 
 
 

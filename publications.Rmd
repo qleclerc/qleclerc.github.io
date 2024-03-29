@@ -32,4 +32,4 @@ title: "List of publications"
 
 15. **Leclerc QJ\***, Duval A\*, Guillemot D, Opatowski L, Temime L. [Using contact network dynamics to implement efficient interventions against pathogen spread in hospital settings.](./papers/medrxiv_ctc.pdf) medRxiv. 2023 Dec 11:2023-10. (\*co-premiers auteurs)
 
-16. Rahbé E, Kovacevic A, Opatowski L, **Leclerc QJ**. Stronger together ? Potential of combining industry datasets and comparison with GLASS. medRxiv. 2024 Mar 15:2024-11.
+16. Rahbé E, Kovacevic A, Opatowski L, **Leclerc QJ**. [Stronger together ? Potential of combining industry datasets and comparison with GLASS.](./papers/medrxiv_compare.pdf) medRxiv. 2024 Mar 27:2024-03.

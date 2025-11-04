@@ -2,7 +2,15 @@
 title: "Curriculum vitae"
 ---
 
-#### 2022-present: Postdoctoral Researcher in mathematical modelling of AMR (Institut Pasteur/Conservatoire National des Arts et Métiers)
+#### 2024-present: Assistant Professor in Public Health (Conservatoire National des Arts et Métiers)
+
+* Modelling of the impact of vaccines against AMR
+* Analysing the emergence and spread of AMR in human populations
+* Supervision of Master students
+* Co-supervisor of Chloé Aupépin's PhD thesis
+* Teaching on the topics of mathematical modelling, epidemiology and biological risks
+
+#### 2022-2024: Postdoctoral Researcher in mathematical modelling of AMR (Institut Pasteur/Conservatoire National des Arts et Métiers)
 
 * Modelling of the spread of AMR across contact networks
 * Modelling the impact of novel interventions against AMR (vaccines and monoclonal antibodies)

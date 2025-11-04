@@ -28,8 +28,14 @@ title: "List of publications"
 
 13. Loedy N, Coletti P, Wambua J, Hermans L, Willem L, Jarvis CI, Wong KL, Edmunds WJ, Robert A, **Leclerc QJ**, Gimma A, Molenberghs G, Beutels P, Faes C, Hens N. [Longitudinal social contact data analysis: insights from 2 years of data collection in Belgium during the COVID-19 pandemic.](./papers/bmcph_comix.pdf) BMC Public Health. 2023.
 
-14. Duval A\*, **Leclerc QJ\***, Guillemot D, Temime L, Opatowski L. [An algorithm to build synthetic temporal contact networks based on close-proximity interactions data.](./papers/medrxiv_algo.pdf) medRxiv. 2023 Dec 8:2023-10. (\*co-premiers auteurs)
+14. Rahbé E, Kovacevic A, Opatowski L, **Leclerc QJ**. [Investigating the feasibility and potential of combining industry AMR monitoring systems: a comparison with WHO GLASS](./papers/WoR_compare.pdf) Wellcome Open Research. 2024 Oct 2;9:248.
 
-15. **Leclerc QJ\***, Duval A\*, Guillemot D, Opatowski L, Temime L. [Using contact network dynamics to implement efficient interventions against pathogen spread in hospital settings.](./papers/medrxiv_ctc.pdf) medRxiv. 2023 Dec 11:2023-10. (\*co-premiers auteurs)
+15. Duval A\*, **Leclerc QJ\***, Guillemot D, Temime L, Opatowski L. [An algorithm to build synthetic temporal contact networks based on close-proximity interactions data. PLOS Computational Biology.](./papers/pcb_algo.pdf) 2024 Jun 13;20(6):e1012227. (\*co-first authors)
 
-16. Rahbé E, Kovacevic A, Opatowski L, **Leclerc QJ**. [Stronger together ? Potential of combining industry datasets and comparison with GLASS.](./papers/medrxiv_compare.pdf) medRxiv. 2024 Mar 27:2024-03.
+16. **Leclerc QJ\***, Duval A\*, Guillemot D, Opatowski L, Temime L. [Using contact network dynamics to implement efficient interventions against pathogen spread in hospital settings: A modelling study.](./papers/pmed_contacts.pdf) PLoS Medicine. 2024 Jul 30;21(7):e1004433. (\*co-first authors)
+
+17. Moutet L\*, **Leclerc QJ\***, Layan M, Bouziad KA, Dab W, Henriot P, Hodbert E, Louati N, Maurin A, Thonon F, Znaty S. [Teleworking and health in an epidemic context: contrasting the infectious and non-communicable diseases perspectives.](./papers/medrxiv_telework.pdf) medRxiv. 2024 Jul 18:2024-07. (\*co-first authors)
+
+18. Guedes M, de la Serna Bazan A, Rubio-Martín E, Pulido LB, Palomo V, Piljić A, **Leclerc QJ**, Aris E, Vella V, Dambrauskienė A, Robotham JV. [How to: share and reuse data—challenges and solutions from predicting the impact of monoclonal antibodies & vaccines on antimicrobial resistance project.](./papers/cmi_reuse.pdf) Clinical Microbiology and Infection. 2025 May 1;31(5):753-60.
+
+19. Pinettes T, **Leclerc QJ**, Jean K, Temime L. [The quarantine hospital strategy as a way to reduce both community and nosocomial transmission in the context of a COVID-like epidemic.](./papers/pcb_quarantine.pdf) PLOS Computational Biology. 2025 Oct 3;21(10):e1013548.

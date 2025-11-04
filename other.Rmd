@@ -2,9 +2,10 @@
 title: "Other content"
 ---
 
-In addition to my publications, I enjoy talking about my research in a more informal way through various blogs, media, and other outreach activities. If you'd like to discuss any aspect of my work, please don't hesitate to [contact me](mailto:quentin.leclerc@pasteur.fr)!
+In addition to my publications, I enjoy talking about my research in a more informal way through various blogs, media, and other outreach activities. If you'd like to discuss any aspect of my work, please don't hesitate to [contact me](mailto:quentin.leclerc@lecnam.net)!
 
 ### Outreach
+- Fête de la Science 2025 at the Musée des Arts et Métiers. *Organiser of a stand on infectious disease dynamics in this public event*
 - ASIBA Masterclass – [Revealing the invisible dynamics of infectious diseases](https://www.asiba.fr/challenges-posed-by-infectious-diseases-in-society-9-november-2023/). *Invited speaker to this webinar series for highschool students, on the topic of infectious diseases*
 - I'm a Scientist Get me out of here - ["Red Zone" (April 2021)](https://red21.imascientist.org.uk/). *Online discussion sessions with secondary and highschool students on the topic of scientific research*
 - FAIRly Open After Dark podcast – [“Going Viral!”](https://fairlyopenafterdark.podbean.com/e/going-viral/). *Guest in the inaugural episode of this podcast about data sharing*

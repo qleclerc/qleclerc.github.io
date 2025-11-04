@@ -13,7 +13,7 @@ As part of this, I published several articles on our [knowledge gaps](./papers/j
 
 I then expanded my work to consider AMR at a human population level. Understanding bacterial transmission is key to implement efficient interventions, whether these are already available (improved hand hygiene, staff cohorting...) or still in clinical development (vaccines, monoclonal antibodies...).
 For this, I have mostly worked with [Prof Lulla Opatowski](https://research.pasteur.fr/en/member/lulla-opatowski/) (Institut Pasteur) and [Prof Laura Temime](https://mesurs.cnam.fr/laboratoire-mesurs/laura-temime--1398722.kjsp#/) (Cnam) during my postdoc funded in the context of the European [PrIMAVeRa project](https://www.primavera-amr.eu/).
-We notably developed a new algorithm to generate [dynamic temporal contact networks](./papers/medrxiv_algo.pdf) from empiric data, and used these networks to investigate the impact of different [contact-based interventions](./papers/medrxiv_ctc.pdf) on MRSA spread.
+We notably developed a new algorithm to generate [dynamic temporal contact networks](./papers/pcb_algo.pdf) from empiric data, and used these networks to investigate the impact of different [contact-based interventions](./papers/pmed_contacts.pdf) on MRSA spread.
 
 
 ***
